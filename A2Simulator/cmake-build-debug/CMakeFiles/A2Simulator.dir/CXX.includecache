@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Delay.h
+Rand.h
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Rand.h
+
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Plane.h
+iostream
+-
+Timer.h
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Timer.h
+Delay.h
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Delay.h
+
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Queue.h
+iostream
+-
+Plane.h
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Plane.h
+
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Rand.h
+cmath
+-
+cstdlib
+-
+ctime
+-
+
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Runway.cpp
+Runway.h
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Runway.h
+Queue.h
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Queue.h
+Plane.h
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Plane.h
+
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Runway.h
+array
+-
+
+C:/Users/Ryan Fischback/CLionProjects/A2Simulator/Timer.h
+
